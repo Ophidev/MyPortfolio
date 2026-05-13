@@ -60,7 +60,6 @@ const groups: { title: string; emoji: string; items: Skill[] }[] = [
     items: [
       { name: "Shopify", slug: "shopify", color: "7AB55C" },
       { name: "WordPress", slug: "wordpress", color: "21759B" },
-      { name: "Kubernetes", slug: "kubernetes", color: "326CE5" },
       { name: "Jenkins (basics)", slug: "jenkins", color: "D24939" },
     ],
   },
