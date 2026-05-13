@@ -17,7 +17,7 @@ const experiences = [
     period: "2025 – Ongoing",
     stack: ["Linux", "Docker", "Git", "GitHub Actions", "Jenkins (basics)"],
     points: [
-      "Studying Linux fundamentals, shell scripting, networking, processes and systemd in depth.",
+      "Studying Linux fundamentals, shell scripting, processes and systemd in depth.",
       "Containerizing Node.js & React apps with Docker and multi-stage builds; orchestrating with docker-compose.",
       "Exploring CI/CD basics Jenkins — build, test and deploy workflows.",
       "Publishing everything I learn as structured open-source notes on GitHub for other devs to use.",
