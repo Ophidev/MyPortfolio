@@ -19,7 +19,7 @@ const experiences = [
     points: [
       "Studying Linux fundamentals, shell scripting, networking, processes and systemd in depth.",
       "Containerizing Node.js & React apps with Docker and multi-stage builds; orchestrating with docker-compose.",
-      "Exploring CI/CD basics with GitHub Actions and Jenkins — build, test and deploy workflows.",
+      "Exploring CI/CD basics Jenkins — build, test and deploy workflows.",
       "Publishing everything I learn as structured open-source notes on GitHub for other devs to use.",
     ],
   },
